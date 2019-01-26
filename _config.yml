@@ -71,7 +71,6 @@ social-network-links:
   github: emillennial
   twitch: emmillennial
   instagram: emillennial
-  tumblr: inyourfacedotcom
 #  reddit: yourname
 #  twitter: yourname
 #  facebook: daattali
@@ -80,7 +79,6 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -248,6 +246,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
+  
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
