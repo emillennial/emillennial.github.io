@@ -1,12 +1,24 @@
 ---
 layout: page
 title: Links
-subtitle: Some of my all time favourite things to read, some sites and shops.
+subtitle: Some of my all time favourite things to read and whatnot.
 ---
 
-**<a href="http://archedeyebrow.com">Bethany Rutter (ArchedEyebrow)</a>** - fat blogger with excellent taste who is witty and smart and good.
+**<a href="https://www.forcesofgeek.com/">Forces of Geek</a>** - Popculture for popculture fans.
 
-**<a href="https://www.flowerandland.com">Flower and Land</a>** - Beautiful flowers, photography and arrangements.
+**<a href="https://www.themarysue.com">The Mary Sue</a>** - Popculture for everyone.
+
+**<a href="http://shakeguacandroll.com">Guac and Roll</a>** - Vegan writer, food stylist and food maker (vegan travel tips).
+
+**<a href="https://geekandsundry.com">Geek and Sundry</a>** - Game stuff.
+
+**<a href="https://grilledcheesesocial.com">Grilled Cheese Social</a>** - You guys like cheese recipes?
+
+**<a href="https://www.khanacademy.org">Khan Academy</a>** - Learn how to do stuff for free.
+
+**<a href="http://archedeyebrow.com">Bethany Rutter (ArchedEyebrow)</a>** - Excellent taste, witty and smart.
+
+**<a href="https://www.flowerandland.com">Flower and Land</a>** - Flowers, photography and arrangements.
 
 **<a href="https://www.haarkon.co.uk">Haarkon</a>** - Sheffield based plant / lifestyle / travel couple.
 
