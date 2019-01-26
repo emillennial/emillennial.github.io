@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-subtitle: Some of my all time favourite things to read, some sites and shops and I'll add more and sort this out eventually..
+subtitle: Some of my all time favourite things to read, some sites and shops.
 ---
 
 **<a href="http://archedeyebrow.com">Bethany Rutter (ArchedEyebrow)</a>** - fat blogger with excellent taste who is witty and smart and good.
