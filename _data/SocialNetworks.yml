@@ -13,7 +13,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/" {:target="_blank"}
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
