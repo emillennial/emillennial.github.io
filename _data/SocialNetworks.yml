@@ -8,7 +8,7 @@
 
 medium:
   name: "Medium"
-  baseURL: "https://www.medium.com/"
+  baseURL: "https://www.medium.com/@"
   icon: "fa-medium"
 
 facebook:
