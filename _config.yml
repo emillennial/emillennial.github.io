@@ -74,16 +74,16 @@ social-network-links:
   instagram: emillennial
 #  reddit: yourname
 #  twitter: yourname
-#  facebook: daattali
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  facebook: yourname
+#  google-plus: +yourname
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/yourname"
+#  snapchat: yourname
+#  youtube: user/yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
@@ -100,7 +100,7 @@ url-pretty: "emillennial.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "UA-100463383-2"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: "UA-100463383-2"
