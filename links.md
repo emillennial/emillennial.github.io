@@ -16,12 +16,6 @@ subtitle: Some of my all time favourite things to read and whatnot.
 
 **<a href="https://www.khanacademy.org" target="_blank">Khan Academy</a>** - Learn how to do stuff for free.
 
-**<a href="http://archedeyebrow.com" target="_blank">Bethany Rutter (ArchedEyebrow)</a>** - Excellent taste, witty and smart.
-
-**<a href="https://www.flowerandland.com" target="_blank">Flower and Land</a>** - Flowers, photography and arrangements.
-
-**<a href="https://www.haarkon.co.uk" target="_blank">Haarkon</a>** - Sheffield based plant / lifestyle / travel couple.
-
 **<a href="http://tinyletter.com/rejectedpitches" target="_blank">Sable Yong</a>** - her newsletter is *just right emoji* . Also follow her on <a href="https://www.instagram.com/sabletoothtigre/" target="_blank">Instagram</a>.
 
 **<a href="http://shakeguacandroll.com" target="_blank">Guac and Roll</a>** - Vegan lifestyle / food / travel (good info for veg travels).
@@ -36,13 +30,9 @@ subtitle: Some of my all time favourite things to read and whatnot.
 
 **<a href="http://dowhatyouwantzine.co.uk" target="_blank">Do What You Want Zine</a>**  - good work by good people. Support this and teach yourself.
 
-**<a href="http://www.daniellevanier.co.uk" target="_blank">Danielle Vanier</a>** - her style and shoes and make up and instastories.
-
 **<a href="http://grilledcheesesocial.com" target="_blank">Grilled Cheese Social</a>** - have been following MacKenzie since the beginning. True cheese queen.
 
 **<a href="http://www.annetdonahue.com" target="_blank">Anne Donahue</a>** - witty and charming and funny woman.
-
-**<a href="http://www.morethantoast.org" target="_blank">Alice JT (More Than Toast)</a>** - Single mum, working hard, being charming and honest.
 
 **<a href="http://www.itsnicethat.com" target="_blank">It's Nice That</a>** - interesting stories that interest me.
 
