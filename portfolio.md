@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: page
 title: Portfolio
-permalink: /portfolio/
+subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 tags: me
 ---
 
-<h1>My Portfolio</h1>
-<p>Welcome to my portfolio! Here are some of my recent projects.</p>
+### My Portfolio
+# Welcome to my portfolio! Here are some of my recent projects.
