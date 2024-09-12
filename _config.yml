@@ -23,9 +23,12 @@ description: it's me..
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Links: "links"
-  Portfolio: "/portfolio/"
+  - title: "About Me"
+    url: "/aboutme/"
+  - title: "Links"
+    url: "/links/"
+  - title: "Portfolio"
+    url: "/portfolio/"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
