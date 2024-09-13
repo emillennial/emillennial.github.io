@@ -49,4 +49,15 @@ Here are some of the projects I've worked on:
         Tags:
         {% if site.link-tags %}
         {% for tag in post.tags %}
-        <
+        <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+        {% endfor %}
+        {% else %}
+          {{ post.tags | join: ", " }}
+        {% endif %}
+      </div>
+      {% endif %}
+
+     </article>
+    {% endif %}
+  {% endfor %}
+</div>
