@@ -2,6 +2,7 @@
 layout: page
 title: Me me me
 subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
+permalink: /
 ---
 
 Started with art, ended up in tech. Now, I spend my days immersed in the peculiar world of digital anthropology. I’m currently studying computer science, philosophy, and psychology at the Open University—working towards passing, eventually. After that, maybe a master’s, perhaps even a PhD, if I can avoid existential dread long enough.
