@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Me me me
+title: emillennial
 subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 use-site-title: true
 ---
