@@ -5,7 +5,7 @@ subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 permalink: /
 ---
 
-# Welcome to My Digital World
+# Hello [Cruel] World
 
 I started with art and found myself deeply involved in tech. This site is a reflection of my journey through the digital landscape, blending my interests in computer science, philosophy, and psychology.
 
