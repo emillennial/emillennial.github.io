@@ -13,6 +13,5 @@ Here’s what you’ll find:
 
 - **[About Me](aboutme)**: A bit about my background and interests.
 - **[Portfolio](portfolio)**: A showcase of projects I've worked on.
-- **[Links](links)**: Some of my favourite resources and connections.
 
 If you'd like to work with me, you can email me at emmillennial@gmail.com
