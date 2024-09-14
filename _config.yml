@@ -24,7 +24,6 @@ description: it's me..
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Links: "links"
   Portfolio: "portfolio"
   
 # Image to show in the navigation bar - image must be a square (width = height)
