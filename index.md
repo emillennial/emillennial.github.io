@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to emillennial
+title: emillennial
 subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 permalink: /
 ---
