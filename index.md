@@ -15,4 +15,4 @@ Here’s what you’ll find:
 - **[Portfolio](portfolio)**: A showcase of projects I've worked on.
 - **[Links](links)**: Some of my favourite resources and connections.
 
-Dive in and explore!
+If you'd like to work with me, you can email me at emmillennial@gmail.com
