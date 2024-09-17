@@ -248,6 +248,8 @@ prose:
 
 plugins:
   - jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
   - jekyll-sitemap
   
 # Beautiful Jekyll / Dean Attali
