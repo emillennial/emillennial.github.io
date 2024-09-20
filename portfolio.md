@@ -6,7 +6,10 @@ permalink: /portfolio/
 ---
 
 {% raw %}
-<!DOCTYPE html>
+### My Portfolio
+
+Here are some casestudies of different projects and designs I've worked on. 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
