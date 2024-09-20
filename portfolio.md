@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default  # Use your site's default layout, or set to "none" if you have no layout
 title: Portfolio
 subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 permalink: /portfolio/
 ---
 
+{% raw %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +66,7 @@ permalink: /portfolio/
     <div class="portfolio-container">
         <!-- Portfolio Item 1 -->
         <div class="portfolio-item">
-            <img src="/path/to/your/image1.jpg" alt="Project 1" class="portfolio-image">
+            <img src="/img/image1.jpg" alt="Project 1" class="portfolio-image">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 1</h3>
                 <p class="portfolio-description">Brief description of Project 1. A modern, responsive portfolio item example.</p>
@@ -74,7 +75,7 @@ permalink: /portfolio/
         
         <!-- Portfolio Item 2 -->
         <div class="portfolio-item">
-            <img src="/path/to/your/image2.jpg" alt="Project 2" class="portfolio-image">
+            <img src="/img/image2.jpg" alt="Project 2" class="portfolio-image">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 2</h3>
                 <p class="portfolio-description">Brief description of Project 2. Highlight key features or skills used.</p>
@@ -87,3 +88,4 @@ permalink: /portfolio/
 
 </body>
 </html>
+{% endraw %}
