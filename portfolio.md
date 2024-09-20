@@ -5,6 +5,9 @@ subtitle: ♻️🍕💻💧💀🎮🌱🎧🍟🦷🎬✨
 permalink: /portfolio/
 ---
 
+## My Portfolio
+Here are some casestudies of the projects and designs I've worked on. 
+
 <style>
 /* Add your CSS styles here */
 .portfolio-container {
@@ -85,11 +88,80 @@ permalink: /portfolio/
             </div>
         </div>
         <div id="project2" class="portfolio-details">
-            <p>Details for Project 2 go here.</p>
+            <p>Here are the details of Project 2. This section will expand with more information when clicked.</p>
+            <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Challenges:</strong> Detail some challenges faced during the project.</p>
+            <p><strong>Outcome:</strong> Describe the outcome and impact of the project.</p>
         </div>
     </div>
 
-    <!-- Add more portfolio items as needed -->
+    <!-- Portfolio Item 3 -->
+    <div class="portfolio-item">
+        <div class="portfolio-summary" onclick="toggleCaseStudy('project3')">
+            <img src="/img/image3.jpg" alt="Project 3" class="portfolio-image">
+            <div class="portfolio-content">
+                <h3 class="portfolio-title">Project 3</h3>
+                <p class="portfolio-description">Brief description of Project 3.</p>
+            </div>
+        </div>
+        <div id="project3" class="portfolio-details">
+            <p>Here are the details of Project 3. This section will expand with more information when clicked.</p>
+            <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Challenges:</strong> Detail some challenges faced during the project.</p>
+            <p><strong>Outcome:</strong> Describe the outcome and impact of the project.</p>
+        </div>
+    </div>
+
+    <!-- Portfolio Item 4 -->
+    <div class="portfolio-item">
+        <div class="portfolio-summary" onclick="toggleCaseStudy('project4')">
+            <img src="/img/image4.jpg" alt="Project 4" class="portfolio-image">
+            <div class="portfolio-content">
+                <h3 class="portfolio-title">Project 4</h3>
+                <p class="portfolio-description">Brief description of Project 4.</p>
+            </div>
+        </div>
+        <div id="project4" class="portfolio-details">
+            <p>Here are the details of Project 4. This section will expand with more information when clicked.</p>
+            <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Challenges:</strong> Detail some challenges faced during the project.</p>
+            <p><strong>Outcome:</strong> Describe the outcome and impact of the project.</p>
+        </div>
+    </div>
+
+    <!-- Portfolio Item 5 -->
+    <div class="portfolio-item">
+        <div class="portfolio-summary" onclick="toggleCaseStudy('project5')">
+            <img src="/img/image5.jpg" alt="Project 5" class="portfolio-image">
+            <div class="portfolio-content">
+                <h3 class="portfolio-title">Project 5</h3>
+                <p class="portfolio-description">Brief description of Project 5.</p>
+            </div>
+        </div>
+        <div id="project5" class="portfolio-details">
+            <p>Here are the details of Project 5. This section will expand with more information when clicked.</p>
+            <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Challenges:</strong> Detail some challenges faced during the project.</p>
+            <p><strong>Outcome:</strong> Describe the outcome and impact of the project.</p>
+        </div>
+    </div>
+
+    <!-- Portfolio Item 6 -->
+    <div class="portfolio-item">
+        <div class="portfolio-summary" onclick="toggleCaseStudy('project6')">
+            <img src="/img/image6.jpg" alt="Project 6" class="portfolio-image">
+            <div class="portfolio-content">
+                <h3 class="portfolio-title">Project 6</h3>
+                <p class="portfolio-description">Brief description of Project 6.</p>
+            </div>
+        </div>
+        <div id="project6" class="portfolio-details">
+            <p>Here are the details of Project 6. This section will expand with more information when clicked.</p>
+            <p><strong>Technologies Used:</strong> HTML, CSS, JavaScript</p>
+            <p><strong>Challenges:</strong> Detail some challenges faced during the project.</p>
+            <p><strong>Outcome:</strong> Describe the outcome and impact of the project.</p>
+        </div>
+    </div>
 </div>
 
 <script>
