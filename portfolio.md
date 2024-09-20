@@ -8,8 +8,9 @@ permalink: /portfolio/
 ## My Portfolio
 Here are some casestudies of the projects and designs I've worked on. 
 
+
 <style>
-/* Add your CSS styles here */
+/* Portfolio Container Styles */
 .portfolio-container {
     display: flex;
     flex-wrap: wrap;
@@ -58,13 +59,56 @@ Here are some casestudies of the projects and designs I've worked on.
 .portfolio-summary {
     cursor: pointer;
 }
+
+/* Modal Styles */
+.modal {
+    display: none; 
+    position: fixed; 
+    z-index: 1; 
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+}
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+.modal-content, .close {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+@keyframes zoom {
+    from {transform: scale(0)}
+    to {transform: scale(1)}
+}
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
 </style>
 
 <div class="portfolio-container">
     <!-- Portfolio Item 1 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project1')">
-            <img src="/img/image1.jpg" alt="Project 1" class="portfolio-image">
+            <img src="/img/image1.jpg" alt="Project 1" class="portfolio-image" onclick="openImageModal('/img/image1.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 1</h3>
                 <p class="portfolio-description">Brief description of Project 1.</p>
@@ -81,7 +125,7 @@ Here are some casestudies of the projects and designs I've worked on.
     <!-- Portfolio Item 2 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project2')">
-            <img src="/img/image2.jpg" alt="Project 2" class="portfolio-image">
+            <img src="/img/image2.jpg" alt="Project 2" class="portfolio-image" onclick="openImageModal('/img/image2.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 2</h3>
                 <p class="portfolio-description">Brief description of Project 2.</p>
@@ -98,7 +142,7 @@ Here are some casestudies of the projects and designs I've worked on.
     <!-- Portfolio Item 3 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project3')">
-            <img src="/img/image3.jpg" alt="Project 3" class="portfolio-image">
+            <img src="/img/image3.jpg" alt="Project 3" class="portfolio-image" onclick="openImageModal('/img/image3.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 3</h3>
                 <p class="portfolio-description">Brief description of Project 3.</p>
@@ -115,7 +159,7 @@ Here are some casestudies of the projects and designs I've worked on.
     <!-- Portfolio Item 4 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project4')">
-            <img src="/img/image4.jpg" alt="Project 4" class="portfolio-image">
+            <img src="/img/image4.jpg" alt="Project 4" class="portfolio-image" onclick="openImageModal('/img/image4.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 4</h3>
                 <p class="portfolio-description">Brief description of Project 4.</p>
@@ -132,7 +176,7 @@ Here are some casestudies of the projects and designs I've worked on.
     <!-- Portfolio Item 5 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project5')">
-            <img src="/img/image5.jpg" alt="Project 5" class="portfolio-image">
+            <img src="/img/image5.jpg" alt="Project 5" class="portfolio-image" onclick="openImageModal('/img/image5.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 5</h3>
                 <p class="portfolio-description">Brief description of Project 5.</p>
@@ -149,7 +193,7 @@ Here are some casestudies of the projects and designs I've worked on.
     <!-- Portfolio Item 6 -->
     <div class="portfolio-item">
         <div class="portfolio-summary" onclick="toggleCaseStudy('project6')">
-            <img src="/img/image6.jpg" alt="Project 6" class="portfolio-image">
+            <img src="/img/image6.jpg" alt="Project 6" class="portfolio-image" onclick="openImageModal('/img/image6.jpg')">
             <div class="portfolio-content">
                 <h3 class="portfolio-title">Project 6</h3>
                 <p class="portfolio-description">Brief description of Project 6.</p>
@@ -164,8 +208,14 @@ Here are some casestudies of the projects and designs I've worked on.
     </div>
 </div>
 
+<!-- The Modal for Full-Size Image -->
+<div id="imageModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="modalImage">
+</div>
+
 <script>
-/* Add your JavaScript here */
+/* Toggle case study details */
 function toggleCaseStudy(caseStudyId) {
     var element = document.getElementById(caseStudyId);
     if (element.style.display === "none" || element.style.display === "") {
@@ -173,5 +223,19 @@ function toggleCaseStudy(caseStudyId) {
     } else {
         element.style.display = "none";
     }
+}
+
+/* Open the modal with the image */
+function openImageModal(imageUrl) {
+    var modal = document.getElementById("imageModal");
+    var modalImg = document.getElementById("modalImage");
+    modal.style.display = "block";
+    modalImg.src = imageUrl;
+}
+
+/* Close the modal */
+function closeModal() {
+    var modal = document.getElementById("imageModal");
+    modal.style.display = "none";
 }
 </script>
