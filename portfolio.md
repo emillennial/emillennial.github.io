@@ -6,7 +6,7 @@ permalink: /portfolio/
 ---
 
 ## My Portfolio
-Here are some casestudies of the projects and designs I've worked on. 
+Here are some case studies of the projects and designs I've worked on. 
 
 <style>
 /* Portfolio Container Styles */
