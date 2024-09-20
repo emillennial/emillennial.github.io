@@ -8,6 +8,11 @@ permalink: /portfolio/
 ## My Portfolio
 Here are some casestudies of the projects and designs I've worked on. 
 
+---
+layout: default  # or any layout you are using
+title: Portfolio
+permalink: /portfolio/
+---
 
 <style>
 /* Portfolio Container Styles */
@@ -70,7 +75,6 @@ Here are some casestudies of the projects and designs I've worked on.
     width: 100%;
     height: 100%;
     overflow: auto; 
-    background-color: rgb(0,0,0); 
     background-color: rgba(0,0,0,0.9); 
 }
 .modal-content {
@@ -209,7 +213,7 @@ Here are some casestudies of the projects and designs I've worked on.
 </div>
 
 <!-- The Modal for Full-Size Image -->
-<div id="imageModal" class="modal">
+<div id="imageModal" class="modal" onclick="closeModal()">
   <span class="close" onclick="closeModal()">&times;</span>
   <img class="modal-content" id="modalImage">
 </div>
