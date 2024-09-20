@@ -8,12 +8,6 @@ permalink: /portfolio/
 ## My Portfolio
 Here are some casestudies of the projects and designs I've worked on. 
 
----
-layout: default  # or any layout you are using
-title: Portfolio
-permalink: /portfolio/
----
-
 <style>
 /* Portfolio Container Styles */
 .portfolio-container {
